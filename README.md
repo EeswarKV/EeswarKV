@@ -1,6 +1,6 @@
 ## Hello Hello !!! I'm [Eeswar]
 
-### Author | Speaker | Passionate Programmer
+###  Speaker | Passionate Programmer
 
 - 🔭 I’m currently working on Web Components, Angular, React, NodeJS
 - 🌱 I’m currently learning VueJS, Java
