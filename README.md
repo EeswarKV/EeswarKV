@@ -1,4 +1,4 @@
-## Hello Hello !!! I'm [Eeswar][website] 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ankitsharma-007" alt="ankitsharma-007" />
+## Hello Hello !!! I'm [Eeswar]
 
 ### Author | Speaker | Passionate Programmer
 
