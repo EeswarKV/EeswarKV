@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on Web Components, Angular, React, NodeJS
 - 🌱 I’m currently learning VueJS, Java
 - 💬 Ask me about Web Components, Angular, React, NodeJS, Blogging
+- looking to contribute to open-source projects.
 - 📫 How to reach me: [@clapgame4u][twitter]
 
 ### 🤝 Connect with me:
