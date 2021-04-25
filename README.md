@@ -2,7 +2,7 @@
 <h3 align="center"> Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>Eeswar</B></h3>
 <hr>
 
-I am a Fullstack Developer, Technical Writer, and Speaker with extensive experience in the entire project life cycle, from concept to implementation to integration. I am an good at problem-solving, technical leadership, communications, and presentations.
+I am a Fullstack Developer, Technical Writer, and Speaker with experience in the project life cycle, from concept to implementation to integration. I am an good at problem-solving, technical leadership, communications, and presentations.
 
 - 🔭 I’m currently working on Web Components, Angular, React, NodeJS
 - 🌱 I’m currently learning VueJS, Java
