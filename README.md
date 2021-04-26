@@ -1,6 +1,6 @@
 
 <h2 align="center"> Hello there! I'm <B>Eeswar</B>  </h2>
-<p align="center"><img style="align:center" width="70%" src="https://steemitimages.com/DQmRy15mFqYmJBhkY8Ahjwoxx798wJHPaqT3fA1QuSJt8vr/snake.gif"></p>
+<p align="center"><img width="70%" src="https://steemitimages.com/DQmRy15mFqYmJBhkY8Ahjwoxx798wJHPaqT3fA1QuSJt8vr/snake.gif"></p>
 <hr>
 
 I am a Fullstack Developer, Technical Writer, and Speaker with experience in the project life cycle, from concept to implementation to integration. I am an good at problem-solving, technical leadership, communications, and presentations.
@@ -12,12 +12,11 @@ I am a Fullstack Developer, Technical Writer, and Speaker with experience in the
 
 ### 🤝 Connect with me:
 
-[<img align="left" alt="ankitsharma_007 | Facebook" target="_blank" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-[<img align="left" alt="ankitsharma_007 | Twitter" target="_blank" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="ankitsharma_007 | LinkedIn" target="_blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="ankitsharma_007 | Medium" target="_blank" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
+[<img align="left" alt="Eeswarkv | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img align="left" alt="Eeswarkv | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="Eeswarkv | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Eeswarkv | Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
 
-<br />
 
 ---
 
