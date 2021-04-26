@@ -1,6 +1,6 @@
 
-![Hey there, I'm Eeswar. I'm a Fullstack developer, a maker and infosec enthusiast. Check out my work](<img align="center" src="https://steemitimages.com/DQmUMg2f9f1AFmvndgxqJErgUHTL1dzfzmVNJT9gKZvNMhM/hello.gif")
-
+<h3 align="center"> Hello there! I'm <B>Eeswar</B>  </h3>
+<p align="center"><img style="align:center" src="https://steemitimages.com/DQmRy15mFqYmJBhkY8Ahjwoxx798wJHPaqT3fA1QuSJt8vr/snake.gif"></p>
 <hr>
 
 I am a Fullstack Developer, Technical Writer, and Speaker with experience in the project life cycle, from concept to implementation to integration. I am an good at problem-solving, technical leadership, communications, and presentations.
