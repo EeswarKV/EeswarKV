@@ -3,7 +3,7 @@
 <p align="center"><img width="70%" src="https://steemitimages.com/DQmRy15mFqYmJBhkY8Ahjwoxx798wJHPaqT3fA1QuSJt8vr/snake.gif"></p>
 <hr>
 
-Being a full stack developer by profession, also I'm Technical writer, and Speaker with experience in the project life cycle, from concept to implementation to integration. Fun to be part of problem-solving. I possess excellent in technical leadership, presentations aswell as communications.
+Being a full stack developer by profession, also I'm Technical writer, and Speaker with experience in the project life cycle, from concept to implementation to integration. Fun to be part of problem-solving. I'm eloquent presenter with Excellent technical and leadership abilities.
 
 - 🔭 I’m currently working on Web Components, Angular, React, NodeJS
 - 🌱 Exploring and enhancing VueJS and Java currently
