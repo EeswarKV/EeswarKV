@@ -3,12 +3,12 @@
 <p align="center"><img width="70%" src="https://steemitimages.com/DQmRy15mFqYmJBhkY8Ahjwoxx798wJHPaqT3fA1QuSJt8vr/snake.gif"></p>
 <hr>
 
-I am a Fullstack Developer, Technical Writer, and Speaker with experience in the project life cycle, from concept to implementation to integration. I am good at problem-solving, technical leadership, communications, and presentations.
+Being a full stack developer by profession, also I'm Technical writer, and Speaker with experience in the project life cycle, from concept to implementation to integration. Fun to be part of problem-solving. I possess excellent in technical leadership, presentations aswell as communications.
 
 - 🔭 I’m currently working on Web Components, Angular, React, NodeJS
-- 🌱 I’m currently learning VueJS, Java
+- 🌱 Exploring and enhancing VueJS and Java currently
 - 💬 Ask me about Web Components, Angular, React, NodeJS, Blogging
-- 👁 Looking to contribute to open-source projects.
+- 👁 Looking forward to contribute to open-source projects
 
 ### 🤝 Connect with me:
 
