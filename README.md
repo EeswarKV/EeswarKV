@@ -1,8 +1,6 @@
 
 <h3 align="center"> Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>Eeswar</B></h3>
 
-![Hey there, I'm Eeswar. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhackernoon.com%2Fmaking-a-game-with-javascript-part-2-8154bd6e2de1&psig=AOvVaw2_wWwjBis-w2_X-Ie6rFWC&ust=1619521638456000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKjTgbXim_ACFQAAAAAdAAAAABAb)
-
 <hr>
 
 I am a Fullstack Developer, Technical Writer, and Speaker with experience in the project life cycle, from concept to implementation to integration. I am an good at problem-solving, technical leadership, communications, and presentations.
