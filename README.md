@@ -1,5 +1,5 @@
 
-<h3 align="center"> Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>Eeswar</B></h3>
+![Hey there, I'm Eeswar. I'm a Fullstack developer, a maker and infosec enthusiast. Check out my work](<img align="center" src="https://steemitimages.com/DQmUMg2f9f1AFmvndgxqJErgUHTL1dzfzmVNJT9gKZvNMhM/hello.gif")
 
 <hr>
 
